@@ -1,0 +1,37 @@
+[
+  {
+    "name": "mims",
+    "Patient Count": "100",
+    "location": "Kottayam"
+  },
+  {
+    "name": "malabar",
+    "Patient Count": "500",
+    "location": "tvm"
+  },
+  {
+    "name": "national",
+    "Patient Count": "10",
+    "location": "kasargod"
+  },
+  {
+    "name": "rivershore",
+    "Patient Count": "10",
+    "location": "kasargod"
+  },
+  {
+    "name": "rajendra",
+    "Patient Count": "500",
+    "location": "trissur"
+  },
+  {
+    "name": "baby memorial hospital",
+    "Patient Count": "500",
+    "location": "trissur"
+  },
+  {
+    "name": "ABC",
+    "Patient Count": "100",
+    "location": "Kottayam"
+  }
+]
